@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Andrei Petrean
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python, sqlite
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me: email -> andrei.petrean@gmail.com
