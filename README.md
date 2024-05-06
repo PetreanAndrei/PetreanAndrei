@@ -1,5 +1,8 @@
--  Hi, I’m Andrei Petrean
--  I’m interested in python and django
--  I’m currently improving my skills in python and django
--  I’m looking to collaborate
--  How to reach me: email -> andrei.petrean@gmail.com
+👋 Hi there, I’m Andrei Petrean!
+🐍 Python enthusiast diving deep into Django's wonders.
+🚀 Continuously honing my craft in Python and Django development.
+💡 Excited about collaborative opportunities to innovate.
+💻 Proficient in SQL for efficient data management.
+🛠️ Harnessing the power of SQLAlchemy for seamless database integration.
+🚀 Building fast and scalable APIs with FastAPI.
+📧 Reach out to me via email: andrei.petrean@gmail.com
